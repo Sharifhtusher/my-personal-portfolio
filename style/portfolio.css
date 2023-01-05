@@ -150,3 +150,48 @@ nav li{
     color: #474747;
     margin-top: 5px;
 }
+
+
+/* what i do styles */
+
+.section-title{
+    font-weight: 700;
+    font-size: 35px;
+    color: #181818;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.section-description{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #757575;
+    margin-bottom: 50px;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.skill-container{
+    display: flex;
+    gap: 24px;
+    margin: 20px 0 50px 0;
+}
+.skill{
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding: 30px 30px;
+}
+
+.skill-title{
+    font-size: 20px;
+    font-weight: 700px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.skill-description{
+    color: #757575;
+}
